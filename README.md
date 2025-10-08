@@ -17,14 +17,6 @@ Me apasiona diseñar **APIs REST**, optimizar bases de datos y conectar sistemas
 
 ### 🧩 Proyectos destacados
 
-| Proyecto | Descripción | Tecnologías |
-|-----------|--------------|--------------|
-| 🩺 **DoctorApp API** | API REST modular para gestionar doctores, pacientes y citas médicas. | Django REST Framework, PostgreSQL |
-| ✂️ **BarberApp** | App web para agendar y administrar citas en barberías. | Next.js, Django, PostgreSQL |
-| 📚 **Bookly API** | API para gestionar préstamos y usuarios de una biblioteca digital. | Django REST Framework, JWT Auth |
-
-🔗 [Ver todos mis proyectos](https://github.com/tuusuario?tab=repositories)
-
 ---
 
 ### 🧠 Actualmente estoy aprendiendo
@@ -49,8 +41,6 @@ Me apasiona diseñar **APIs REST**, optimizar bases de datos y conectar sistemas
 
 ### 📫 Cómo contactarme
 - ✉️ **Correo:** [alejocardenas.dev@gmail.com](mailto:alejocardenas.dev@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/alejocardenasdev](https://linkedin.com/in/alejocardenasdev)
-- 🌐 **Portafolio:** [alejocardenas.dev](https://alejocardenas.dev) *(si planeas crear uno)*
 
 ---
 
